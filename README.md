@@ -16,7 +16,7 @@ let Ahmed = {
     pronouns: "He/Him",
     location: "Yemen",
     timezone: "(GMT+3)",
-    bio: "I'm Ahmed Qahtan, a software engineer, fullstack developer and flutter developer 👨‍💻 🕵️",
+    bio: "I'm Ahmed Qahtan, a software engineer, fullstack developer and flutter developer",
 
     // Coding
     projects: [ "File Sharing Application", "MyNote", "Any Course", "corecare" ],
