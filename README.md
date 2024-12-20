@@ -19,7 +19,7 @@ let Ahmed = {
     bio: "I'm Ahmed Qahtan, a software engineer, fullstack developer and flutter developer",
 
     // Coding
-    projects: [ "File Sharing Application", "MyNote", "Any Course", "corecare" ],
+    projects: [ "File Sharing Application", "MyNote", "Any Course", "corecare", "cars store" , "clothing store" ],
     favoriteLanguages: [ "Flutter", "C#", "PHP", "Java" ],
 }
 ```
