@@ -81,7 +81,7 @@ let Ahmed = {
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/qahtan.dev?igsh=MTJ2eG1hYXJvYjc0bg==" target="_blank">
+<a href="https://www.instagram.com/qahtan.dev?igsh=ZHg0czBtMjl1a3B3" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
